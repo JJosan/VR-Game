@@ -1,0 +1,1 @@
+Only includes game assets because the project file is very big
